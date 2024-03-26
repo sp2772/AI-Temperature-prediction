@@ -1,4 +1,4 @@
-In this Python script, we, SALVO ACCEL TEAM, performed temperature forecasting using machine learning techniques on a dataset obtained from Kaggle. The dataset includes various features such as present temperature, LDAPS (Land Data Assimilation System) variables, geographical features, and solar radiation, along with the next-day maximum and minimum air temperatures.
+In this Python script, we performed temperature forecasting using machine learning techniques on a dataset obtained from Kaggle. The dataset includes various features such as present temperature, LDAPS (Land Data Assimilation System) variables, geographical features, and solar radiation, along with the next-day maximum and minimum air temperatures.
 
 We began by importing necessary libraries and loading the dataset. After exploring the dataset's structure, we visualized the distribution of temperature values and examined their correlations with other variables.
 
